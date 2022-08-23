@@ -1,0 +1,19 @@
+[
+	{ "s": "BACKGROUND", "p": [38] },
+	{ "s": "BACKGROUND-COLOR", "p": [38] },
+	{ "s": "BAJAR", "p": [37] },
+	{ "s": "BASE", "p": [5, 21, 29, 18, 11] },
+	{ "s": "BIBLIOTECA", "p": [35, 9, 2, 1] },
+	{ "s": "BLOQUE", "p": [26] },
+	{ "s": "BODY", "p": [38] },
+	{ "s": "BORDER", "p": [36] },
+	{ "s": "BORDER-RADIUS", "p": [36] },
+	{ "s": "BORDES", "p": [36] },
+	{ "s": "BOTON", "p": [37] },
+	{ "s": "BOTÓN", "p": [30, 22, 17] },
+	{ "s": "BOTÓN,POR", "p": [22] },
+	{ "s": "BRINDAREMOS", "p": [32] },
+	{ "s": "BUSCAR", "p": [32] },
+	{ "s": "BÁSICA", "p": [24, 17] },
+	{ "s": "BÚSQUEDA", "p": [33] }
+]

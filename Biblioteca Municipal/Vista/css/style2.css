@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+    /*border: 1px solid red;*/
+    /*outline: solid 1px red;*/
+}
+
+body {
+    background-color: #e8d6d6;
+}
+
+#contenedor {
+    font-size: 1em;
+    background-color: #f7f3f3;
+    border: #d3d3d3 1px solid;
+    text-align: justify;
+    margin: 10px auto;
+    width: 950px;
+}
+
+header {
+    /* border: #f10000 1px solid; */
+    width: 948px;
+    height: 350px;
+    background: url("../img/banner.jpg");
+    background-size: cover;
+}
+
+
+/* Mapa del sitio */
+
+#nav2 {
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    text-align: left;
+}
+
+#contenedor1 {
+    font-size: 1em;
+    background-color: #f7f3f3;
+    border: #d3d3d3 1px solid;
+    text-align: justify;
+    margin: 10px auto;
+    width: 950px;
+    height: 1100px;
+}
+
+
+/* EMPIEZA EL NAV */
+
+#nav {
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    background-color: rgb(129, 21, 30);
+}
+
+#nav li {
+    position: relative;
+    display: inline;
+}
+
+#nav a {
+    display: inline-block;
+    padding: 10px 2em;
+    color: aliceblue;
+}
+
+#nav ul {
+    position: absolute;
+    left: -9999px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+#nav ul li {
+    display: block;
+    background-color: rgb(129, 21, 30);
+}
+
+#nav li:hover ul {
+    left: 0;
+}
+
+#nav li:hover a {
+    text-decoration: none;
+    background-color: rgb(129, 21, 30);
+    cursor: pointer;
+}
+
+#nav li:hover ul a {
+    text-decoration: none;
+    background: none;
+}
+
+#nav li:hover ul a:hover {
+    text-decoration: none;
+    background-color: #8c8c929a;
+}
+
+#nav ul a {
+    white-space: nowrap;
+    display: block;
+    background-color: rgb(129, 21, 30);
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* FINALIZA EL NAV */
+
+#contenido {
+    height: 330px;
+    /* min-height: 27vw; */
+    background-color: #faf4f4;
+}
+
+#mcontenido {
+    background: #ffffff;
+    text-align: justify;
+    border-radius: 15px;
+    width: 31%;
+    height: 300px;
+    float: left;
+    margin: 15px 10px 0 10px;
+    padding: 15px;
+    line-height: 1.5em;
+    box-shadow: #0000008f 10px 10px 5px;
+}
+
+#mcontenido h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 5%;
+}
+
+
+/*INGRESAR LIBROS INICIO*/
+
+#contenido2 {
+    height: 300px;
+    /* min-height: 27vw; */
+    background-color: #faf4f4;
+}
+
+#mcontenido2 {
+    text-align: justify;
+    border-radius: 15px;
+    width: 90%;
+    height: 325px;
+    margin: 15px 50px 0 45px;
+    padding: 15px;
+    line-height: 2em;
+}
+
+#mcontenido2 h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+
+#mcontenido2form {
+    /* border: #000000 1px solid; */
+    width: 40.5%;
+    height: 237px;
+}
+
+#mcontenido2form input {
+    margin: 0 23px;
+}
+
+
+/*INGRESAR LIBROS FINAL*/
+
+
+/* footer */
+
+.site-footer {
+    background-color: #26272b;
+    padding: 11px 0 20px;
+    font-size: 15px;
+    line-height: -2px;
+    color: #737373;
+    text-align: center;
+}
+
+.site-footer hr {
+    border-top-color: #bbb;
+    opacity: 0.5
+}
+
+.site-footer a {
+    color: #737373;
+}
+
+.site-footer .social-icons {
+    text-align: right
+}
+
+.site-footer .social-icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 6px;
+    margin-right: 0;
+    border-radius: 100%;
+    background-color: #33353d
+}

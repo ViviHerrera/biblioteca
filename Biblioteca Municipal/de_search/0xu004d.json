@@ -1,0 +1,22 @@
+[
+	{ "s": "MANERA", "p": [33] },
+	{ "s": "MANUAL", "p": [2, 1] },
+	{ "s": "MARGIN", "p": [37] },
+	{ "s": "MEDIANTE", "p": [33] },
+	{ "s": "MENOS", "p": [33] },
+	{ "s": "MENSAJE", "p": [29, 18] },
+	{ "s": "MISMA", "p": [33, 7] },
+	{ "s": "MISMO", "p": [16, 12, 11, 6] },
+	{ "s": "MODELO", "p": [9, 4, 2] },
+	{ "s": "MODELO-VISTA-CONTROLADOR", "p": [2] },
+	{ "s": "MODIFICAR", "p": [32, 24, 19, 7] },
+	{ "s": "MOMENTO", "p": [28] },
+	{ "s": "MOSTRAR", "p": [31, 18] },
+	{ "s": "MOSTRAREMOS", "p": [33, 28, 27, 26, 18] },
+	{ "s": "MOSTRARÁ", "p": [32, 31, 29, 23, 17] },
+	{ "s": "MUESTRAN", "p": [23] },
+	{ "s": "MUNICIPAL", "p": [35, 2, 1] },
+	{ "s": "MVC", "p": [2] },
+	{ "s": "MYSQLI", "p": [5] },
+	{ "s": "MÁS", "p": [33, 5] }
+]

@@ -1,0 +1,10 @@
+[
+	{ "s": "GENERAL", "p": [37] },
+	{ "s": "GESTION", "p": [35, 2] },
+	{ "s": "GESTIONARÁ", "p": [11] },
+	{ "s": "GESTOR", "p": [11, 7, 9, 8] },
+	{ "s": "GESTOR,LIBRO", "p": [9] },
+	{ "s": "GUARDAR", "p": [16] },
+	{ "s": "GUARDARÁ", "p": [29] },
+	{ "s": "GUARDEN", "p": [21] }
+]
